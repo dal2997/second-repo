@@ -1,1 +1,2 @@
-print('hello')
+fo _ in range(5):
+    print('hello')
